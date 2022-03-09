@@ -1,0 +1,9 @@
+m=input("enter string1:")
+n=input("enter string2 ")
+print(m+n)
+
+enter string1
+bhu
+enter string2
+bhu
+bhuvana
